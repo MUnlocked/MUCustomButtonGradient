@@ -1,0 +1,11 @@
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\bin\Debug\CustomBtnGD.exe.config
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\bin\Debug\CustomBtnGD.exe
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\bin\Debug\CustomBtnGD.pdb
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\obj\Debug\CustomBtnGD.csproj.AssemblyReference.cache
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\obj\Debug\CustomBtnGD.BtnGDIMG.resources
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\obj\Debug\CustomBtnGD.Properties.Resources.resources
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\obj\Debug\CustomBtnGD.csproj.GenerateResource.cache
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\obj\Debug\CustomBtnGD.csproj.CoreCompileInputs.cache
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\obj\Debug\CustomBtnGD.exe
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\obj\Debug\CustomBtnGD.pdb
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\obj\Debug\CustomBtnGD.FormBtn.resources

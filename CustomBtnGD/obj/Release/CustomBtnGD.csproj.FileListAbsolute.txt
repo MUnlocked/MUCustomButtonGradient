@@ -1,0 +1,10 @@
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\bin\Release\MUnlockedCustomButttonGradient.dll.config
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\bin\Release\MUnlockedCustomButttonGradient.dll
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\bin\Release\MUnlockedCustomButttonGradient.pdb
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\obj\Release\CustomBtnGD.csproj.AssemblyReference.cache
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\obj\Release\MUnlockedCustomButttonGradient.BtnGDIMG.resources
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\obj\Release\MUCustomButtonGradient.Properties.Resources.resources
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\obj\Release\CustomBtnGD.csproj.GenerateResource.cache
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\obj\Release\CustomBtnGD.csproj.CoreCompileInputs.cache
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\obj\Release\MUnlockedCustomButttonGradient.dll
+C:\Users\M.Unlocked\Documents\Prueba\CustomButtons\CustomBtnGD\obj\Release\MUnlockedCustomButttonGradient.pdb
